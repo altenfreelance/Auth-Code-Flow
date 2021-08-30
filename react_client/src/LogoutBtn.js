@@ -11,7 +11,7 @@ const LogoutBtn = () => {
         const res = await fetch(
             `https://${domain}/logout?` +
             `client_id=${clientID}` +
-            `&returnTo=${returnTo}`,
+            `&return_to=${returnTo}`,
 
             //To reroute to non server location /poc
             {redirect: "manual"} 

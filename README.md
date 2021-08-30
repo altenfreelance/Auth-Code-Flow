@@ -34,3 +34,4 @@ Run `./start.sh` in git bash to launch both services and the front end
 
 ### Future work
 * https://developers.onelogin.com/openid-connect/guides/auth-flow-pkce
+* https://auth0.com/docs/authorization/which-oauth-2-0-flow-should-i-use

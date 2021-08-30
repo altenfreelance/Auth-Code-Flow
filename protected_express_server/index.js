@@ -38,7 +38,7 @@ var jwtCheck = jwt({
 
 app.use(jwtCheck);
 
-app.get('/poc', /*guard.check(["read:poc"]),*/function (req, res) {
+app.get('/poc', guard.check("read:poc"), function (req, res) {
     res.json(
         {
             poc1: "This is some hard code coming from protected server", 
