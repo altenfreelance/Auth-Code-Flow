@@ -29,6 +29,7 @@ Run `./start.sh` in git bash to launch both services and the front end
 
 ## Sources
 https://jcbaey.com/oauth2-oidc-best-practices-in-spa
+https://www.youtube.com/watch?v=MqczHS3Z2bc&t=1062s
 
 
 ### Future work
