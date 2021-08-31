@@ -5,6 +5,7 @@ This repo is simple a POC and basic implementation of the authorization code flo
 has access the the client secret (not stored on the front end at all).
 
 Future work will include implementing PKCE Auth Code Flow as well.
+For a demo of Auth-Code-Flow with PKCE in an SPA see https://github.com/altenfreelance/Auth-Code-Flow-PKCE
 
 ## Setup
 
